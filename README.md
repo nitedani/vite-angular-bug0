@@ -3,6 +3,5 @@
 usage:
 
 ```
-yarn start # start app
-yarn build # build app
+pnpm dev
 ```
